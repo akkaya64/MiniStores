@@ -1,2 +1,2 @@
 Produx=ct islemler
-Remote Islemler Yapildi
+Remote Islemler Yapildi......
