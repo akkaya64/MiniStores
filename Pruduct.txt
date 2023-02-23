@@ -1,2 +1,4 @@
 Produx=ct islemler
 Remote Islemler Yapildi......
+vctr branch i degisiklikleri tamamladi
+
