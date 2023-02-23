@@ -1,4 +1,5 @@
 Produx=ct islemler
 Remote Islemler Yapildi......
 vctr branch i degisiklikleri tamamladi
+vctr yeni degisiklikler ekledi diger arkadasindan habersiz
 
