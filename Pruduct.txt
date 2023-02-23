@@ -1,1 +1,2 @@
-islemler
+Produx=ct islemler
+Remote Islemler Yapildi
